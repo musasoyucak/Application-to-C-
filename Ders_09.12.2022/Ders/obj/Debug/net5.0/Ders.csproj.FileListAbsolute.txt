@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\bin\Debug\net5.0\Ders.exe
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\bin\Debug\net5.0\Ders.deps.json
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\bin\Debug\net5.0\Ders.runtimeconfig.json
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\bin\Debug\net5.0\Ders.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\bin\Debug\net5.0\Ders.dll
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\bin\Debug\net5.0\Ders.pdb
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\Ders.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\Ders.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\Ders.AssemblyInfo.cs
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\Ders.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\Ders.dll
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\refint\Ders.dll
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\Ders.pdb
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\Ders.genruntimeconfig.cache
+C:\Users\Z35\source\repos\Ders_09.12.2022\Ders\obj\Debug\net5.0\ref\Ders.dll

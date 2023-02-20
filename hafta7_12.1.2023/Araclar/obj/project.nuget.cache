@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XG/VRjeJfiyMNJuY8oNEJ4uhTjFBuA4h1Sz1s3yxSYpPogBBO5GwUz6UNQRed+n1C7hFclhbNMTr7+JCnuSmew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z35\\source\\repos\\hafta7_12.1.2023\\Araclar\\Araclar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z35\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCnGL7C8qdE4g6FbL0ISBHpXqJzrRn31RrYNm7JjKFdFFGLy+F0k75OGKKDV+mahrFq+K0kqY3gf76evrIzAkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z35\\source\\repos\\hafta7_12.1.2023\\ConsoleApp9\\ConsoleApp9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z35\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

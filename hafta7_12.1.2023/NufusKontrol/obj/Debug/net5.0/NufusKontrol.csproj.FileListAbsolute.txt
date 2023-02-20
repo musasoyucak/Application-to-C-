@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\bin\Debug\net5.0\NufusKontrol.exe
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\bin\Debug\net5.0\NufusKontrol.deps.json
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\bin\Debug\net5.0\NufusKontrol.runtimeconfig.json
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\bin\Debug\net5.0\NufusKontrol.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\bin\Debug\net5.0\NufusKontrol.dll
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\bin\Debug\net5.0\NufusKontrol.pdb
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\NufusKontrol.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\NufusKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\NufusKontrol.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\NufusKontrol.AssemblyInfo.cs
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\NufusKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\NufusKontrol.dll
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\refint\NufusKontrol.dll
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\NufusKontrol.pdb
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\NufusKontrol.genruntimeconfig.cache
+C:\Users\Z35\source\repos\hafta7_12.1.2023\NufusKontrol\obj\Debug\net5.0\ref\NufusKontrol.dll

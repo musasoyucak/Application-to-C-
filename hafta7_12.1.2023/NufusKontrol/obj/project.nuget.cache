@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7sI9Ehgxzy8GuHIA3+L/BlEdWwUSdoDwXdih/dieElhjToKkjBnqFGXTXDvADqML0nyxLyztIVDJsVDShnG1QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z35\\source\\repos\\hafta7_12.1.2023\\NufusKontrol\\NufusKontrol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z35\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

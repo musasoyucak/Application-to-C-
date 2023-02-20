@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\bin\Debug\net5.0\Hafta7.exe
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\bin\Debug\net5.0\Hafta7.deps.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\bin\Debug\net5.0\Hafta7.runtimeconfig.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\bin\Debug\net5.0\Hafta7.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\bin\Debug\net5.0\Hafta7.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\bin\Debug\net5.0\Hafta7.pdb
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\Hafta7.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\Hafta7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\Hafta7.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\Hafta7.AssemblyInfo.cs
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\Hafta7.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\Hafta7.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\refint\Hafta7.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\Hafta7.pdb
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\Hafta7.genruntimeconfig.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hafta7\obj\Debug\net5.0\ref\Hafta7.dll

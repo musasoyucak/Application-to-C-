@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZr8TOayeAeJhM7KThbztS3Z67FFvn2wsDZlAzv9u4Myb0s1zrxyrAHmswQ1U5hqGnuAsuEiIIDpHWgsG9BvZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z35\\source\\repos\\OkulKayitSistemi\\OkulKayitSistemi\\OkulKayitSistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z35\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ders2_06.12.2022.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ders2_06.12.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ders2_06.12.2022.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ders2_06.12.2022.AssemblyInfo.cs
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ders2_06.12.2022.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\bin\Debug\net5.0\ders2_06.12.2022.exe
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\bin\Debug\net5.0\ders2_06.12.2022.deps.json
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\bin\Debug\net5.0\ders2_06.12.2022.runtimeconfig.json
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\bin\Debug\net5.0\ders2_06.12.2022.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\bin\Debug\net5.0\ders2_06.12.2022.dll
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\bin\Debug\net5.0\ders2_06.12.2022.pdb
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ders2_06.12.2022.dll
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\refint\ders2_06.12.2022.dll
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ders2_06.12.2022.pdb
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ders2_06.12.2022.genruntimeconfig.cache
+C:\Users\Z35\source\repos\ders2_06.12.2022\ders2_06.12.2022\obj\Debug\net5.0\ref\ders2_06.12.2022.dll

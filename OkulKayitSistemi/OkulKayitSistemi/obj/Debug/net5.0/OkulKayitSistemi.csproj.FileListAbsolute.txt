@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\bin\Debug\net5.0\OkulKayitSistemi.exe
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\bin\Debug\net5.0\OkulKayitSistemi.deps.json
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\bin\Debug\net5.0\OkulKayitSistemi.runtimeconfig.json
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\bin\Debug\net5.0\OkulKayitSistemi.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\bin\Debug\net5.0\OkulKayitSistemi.dll
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\bin\Debug\net5.0\OkulKayitSistemi.pdb
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\OkulKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\OkulKayitSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\OkulKayitSistemi.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\OkulKayitSistemi.AssemblyInfo.cs
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\OkulKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\OkulKayitSistemi.dll
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\refint\OkulKayitSistemi.dll
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\OkulKayitSistemi.pdb
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\OkulKayitSistemi.genruntimeconfig.cache
+C:\Users\Z35\source\repos\OkulKayitSistemi\OkulKayitSistemi\obj\Debug\net5.0\ref\OkulKayitSistemi.dll

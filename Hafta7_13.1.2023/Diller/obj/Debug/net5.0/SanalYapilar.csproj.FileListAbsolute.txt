@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\bin\Debug\net5.0\SanalYapilar.exe
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\bin\Debug\net5.0\SanalYapilar.deps.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\bin\Debug\net5.0\SanalYapilar.runtimeconfig.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\bin\Debug\net5.0\SanalYapilar.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\bin\Debug\net5.0\SanalYapilar.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\bin\Debug\net5.0\SanalYapilar.pdb
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\SanalYapilar.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\SanalYapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\SanalYapilar.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\SanalYapilar.AssemblyInfo.cs
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\SanalYapilar.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\SanalYapilar.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\refint\SanalYapilar.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\SanalYapilar.pdb
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\SanalYapilar.genruntimeconfig.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Diller\obj\Debug\net5.0\ref\SanalYapilar.dll

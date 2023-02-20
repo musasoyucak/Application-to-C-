@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tazMAdKsWac1ASc2txJglHkAk0vpsyp1l+Lat9HyJ9vM5UoXRVtpB72HZnKnA9oGDERl+TWz4+8E30wW25npVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z35\\source\\repos\\hafta7_9.01.2023\\hafta7\\hafta7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z35\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

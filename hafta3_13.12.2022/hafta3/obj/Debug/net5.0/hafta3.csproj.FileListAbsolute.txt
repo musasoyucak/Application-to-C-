@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\bin\Debug\net5.0\hafta3.exe
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\bin\Debug\net5.0\hafta3.deps.json
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\bin\Debug\net5.0\hafta3.runtimeconfig.json
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\bin\Debug\net5.0\hafta3.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\bin\Debug\net5.0\hafta3.dll
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\bin\Debug\net5.0\hafta3.pdb
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\hafta3.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\hafta3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\hafta3.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\hafta3.AssemblyInfo.cs
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\hafta3.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\hafta3.dll
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\refint\hafta3.dll
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\hafta3.pdb
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\hafta3.genruntimeconfig.cache
+C:\Users\Z35\source\repos\hafta3_13.12.2022\hafta3\obj\Debug\net5.0\ref\hafta3.dll

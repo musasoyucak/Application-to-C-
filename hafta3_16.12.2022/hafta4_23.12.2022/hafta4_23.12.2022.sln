@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta4", "hafta4\hafta4.csproj", "{CB2D640D-5F8D-4869-B648-E36552F269E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodlar", "Methodlar\Methodlar.csproj", "{2292FC38-A1DB-4C79-9587-7B43D36B210F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB2D640D-5F8D-4869-B648-E36552F269E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2D640D-5F8D-4869-B648-E36552F269E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2D640D-5F8D-4869-B648-E36552F269E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2D640D-5F8D-4869-B648-E36552F269E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2292FC38-A1DB-4C79-9587-7B43D36B210F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2292FC38-A1DB-4C79-9587-7B43D36B210F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2292FC38-A1DB-4C79-9587-7B43D36B210F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2292FC38-A1DB-4C79-9587-7B43D36B210F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98439EC1-4F41-4BC0-A945-1F7ED7E81145}
+	EndGlobalSection
+EndGlobal

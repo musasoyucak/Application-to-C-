@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\bin\Debug\net5.0\Alisveris.exe
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\bin\Debug\net5.0\Alisveris.deps.json
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\bin\Debug\net5.0\Alisveris.runtimeconfig.json
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\bin\Debug\net5.0\Alisveris.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\bin\Debug\net5.0\Alisveris.dll
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\bin\Debug\net5.0\Alisveris.pdb
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\Alisveris.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\Alisveris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\Alisveris.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\Alisveris.AssemblyInfo.cs
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\Alisveris.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\Alisveris.dll
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\refint\Alisveris.dll
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\Alisveris.pdb
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\Alisveris.genruntimeconfig.cache
+C:\Users\Z35\source\repos\hafta7_12.1.2023\Alisveris\obj\Debug\net5.0\ref\Alisveris.dll

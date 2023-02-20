@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDWypm+tj9HNOQMXkMgofJ51leMK/QnhgxDmMqL6kgUCvyvacP9CbgRFtMaolWysrHa1FAJD8KX5Rppl6CMk6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z35\\source\\repos\\ders2_06.12.2022\\ders2_06.12.2022\\ders2_06.12.2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z35\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

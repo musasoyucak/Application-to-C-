@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\bin\Debug\net5.0\Hesapla.exe
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\bin\Debug\net5.0\Hesapla.deps.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\bin\Debug\net5.0\Hesapla.runtimeconfig.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\bin\Debug\net5.0\Hesapla.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\bin\Debug\net5.0\Hesapla.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\bin\Debug\net5.0\Hesapla.pdb
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\Hesapla.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\Hesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\Hesapla.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\Hesapla.AssemblyInfo.cs
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\Hesapla.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\Hesapla.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\refint\Hesapla.dll
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\Hesapla.pdb
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\Hesapla.genruntimeconfig.cache
+C:\Users\Z35\source\repos\Hafta7_13.1.2023\Hesapla\obj\Debug\net5.0\ref\Hesapla.dll

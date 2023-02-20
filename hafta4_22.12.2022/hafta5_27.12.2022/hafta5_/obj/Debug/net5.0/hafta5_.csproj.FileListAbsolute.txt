@@ -1,0 +1,16 @@
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\hafta5_.csproj.AssemblyReference.cache
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\hafta5_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\hafta5_.AssemblyInfoInputs.cache
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\hafta5_.AssemblyInfo.cs
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\hafta5_.csproj.CoreCompileInputs.cache
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\bin\Debug\net5.0\hafta5_.exe
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\bin\Debug\net5.0\hafta5_.deps.json
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\bin\Debug\net5.0\hafta5_.runtimeconfig.json
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\bin\Debug\net5.0\hafta5_.runtimeconfig.dev.json
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\bin\Debug\net5.0\hafta5_.dll
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\bin\Debug\net5.0\hafta5_.pdb
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\hafta5_.dll
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\refint\hafta5_.dll
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\hafta5_.pdb
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\hafta5_.genruntimeconfig.cache
+C:\Users\Z35\source\repos\hafta5_27.12.2022\hafta5_\obj\Debug\net5.0\ref\hafta5_.dll
